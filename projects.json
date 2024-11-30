@@ -1,0 +1,141 @@
+[
+    {
+        "project_name": "Avalanche",
+        "description": {
+            "short": "Масштабований блокчейн із швидкими транзакціями.",
+            "full": "Avalanche - це блокчейн, що підтримує до 4500 транзакцій за секунду, має три основні ланцюги та сумісний із Ethereum."
+        },
+        "requirements": [
+            {
+                "task": "Зареєструватися та підключити гаманець.",
+                "difficulty": "easy",
+                "deadline": "2024-12-31"
+            }
+        ],
+        "rewards": {
+            "amount": "100 AVAX",
+            "distribution_date": "2025-01-15"
+        },
+        "links": {
+            "website": "https://www.avax.network/",
+            "social": {
+                "twitter": "https://x.com/avax?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+                "telegram": "t.me/avalancheavax",
+                "discord": "https://discord.com/invite/avax"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    },
+    {
+        "project_name": "Polygon",
+        "description": {
+            "short": "Розширення Ethereum для швидких транзакцій.",
+            "full": "Polygon - це платформа, яка надає дешеві та швидкі транзакції в Ethereum-мережі, використовуючи власний токен MATIC."
+        },
+        "requirements": [
+            {
+                "task": "Взяти участь у стейкінгу.",
+                "difficulty": "medium",
+                "deadline": "2024-11-30"
+            }
+        ],
+        "rewards": {
+            "amount": "50 MATIC",
+            "distribution_date": "2024-12-10"
+        },
+        "links": {
+            "website": "https://polygon.technology/",
+            "social": {
+                "twitter": "https://x.com/0xPolygon?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+                "telegram": "t.me/polygonofficial",
+                "discord": "https://discord.com/invite/YnGKP7d3vS"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    },
+    {
+        "project_name": "Ringfence",
+        "description": {
+            "short": "Інноваційна платформа для генеративного ШІ та справедливої компенсації контент-творців.",
+            "full": "Ringfence фокусується на використанні технологій блокчейн для створення безпечних транзакцій, підтримуючи творців контенту через справедливу компенсацію."
+        },
+        "requirements": [
+            {
+                "task": "Підписатися на платформу та додати контент.",
+                "difficulty": "medium",
+                "deadline": "2024-12-15"
+            }
+        ],
+        "rewards": {
+            "amount": "150 RING",
+            "distribution_date": "2025-01-20"
+        },
+        "links": {
+            "website": "https://ringfence.org/",
+            "social": {
+                "twitter": "https://x.com/i/flow/login?redirect_after_login=%2Fringfenceai",
+                "telegram": "t.me/notcryptofence"
+                
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    },
+    {
+        "project_name": "Flux",
+        "description": {
+            "short": "Децентралізоване хмарне обчислення для Web3.",
+            "full": "Flux надає економічну альтернативу традиційним хмарним сервісам, підтримуючи децентралізацію та розвиток Web3 екосистеми."
+        },
+        "requirements": [
+            {
+                "task": "Запустити хмарне середовище на платформі Flux.",
+                "difficulty": "hard",
+                "deadline": "2024-12-20"
+            }
+        ],
+        "rewards": {
+            "amount": "200 FLUX",
+            "distribution_date": "2025-02-01"
+        },
+        "links": {
+            "website": "https://runonflux.io/",
+            "social": {
+                "twitter": "https://x.com/RunOnFlux?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor",
+                "telegram": "t.me/runonflux",
+                "discord": "https://discord.com/invite/runonflux"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    },
+    {
+        "project_name": "BestChange",
+        "description": {
+            "short": "Платформа для обміну криптовалют з більш ніж 250 перевіреними обмінниками.",
+            "full": "BestChange забезпечує простий і безпечний досвід для користувачів при обміні криптовалют, з гарантією найкращих курсів через перевірених обмінників."
+        },
+        "requirements": [
+            {
+                "task": "Зареєструвати обліковий запис та зробити перший обмін.",
+                "difficulty": "easy",
+                "deadline": "2024-12-10"
+            }
+        ],
+        "rewards": {
+            "amount": "50 BCT",
+            "distribution_date": "2025-01-05"
+        },
+        "links": {
+            "website": "https://www.bestchange.com/",
+            "social": {
+                "twitter": "https://x.com/bestchangeeng",
+                "telegram": "t.me/bestchangerus"
+            }
+        },
+        "status": "active",
+        "last_updated": "2024-11-29"
+    }
+]
